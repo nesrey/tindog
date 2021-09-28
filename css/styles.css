@@ -49,3 +49,77 @@ body {
   width: 60%;
   transform: rotate(25deg);
 }
+
+/* Features section */
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+}
+p {
+  padding: 0 15%;
+  color: #8f8f8f;
+}
+h2{
+  font-family: montserrat;
+  font-weight: bold !important;
+  line-height: 1.5rem;
+  font-size: 3rem !important;
+}
+h3 {
+font-family: montserrat;
+font-weight: bold !important;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+/* Testimonials */
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+
+.testimonial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#press {
+background-color: #ff4c68;
+text-align: center;
+padding-bottom: 3%;
+}
+
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+/* pricing section */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
